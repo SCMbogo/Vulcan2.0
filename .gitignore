@@ -1,0 +1,15 @@
+db
+/media
+/bin
+/include
+/lib
+/local
+/share
+/env
+/venv
+/Vulcan/media
+*.log
+*.pot
+*.pyc
+local_settings.py
+.idea
